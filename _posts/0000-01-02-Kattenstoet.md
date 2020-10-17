@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to my slide!"
 ---
-Yahahahooey!
+Yahahahooey! :tada:
 Use the left arrow to go back!
